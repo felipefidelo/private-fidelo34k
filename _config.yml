@@ -39,12 +39,12 @@ links:
     Text_Color: '#ffffff'
 
  # Gupo dexz bot
-  - Name: DexZ bOT
+  - Name: DexZ Bot
     URL: https://chat.whatsapp.com/ITzzMMfgsxdL73WJKmpq0G
     Username: 
-    Color: '#000000'
+    Color: '#1DB954'
     Icon-Class: fab fa-whatsapp
-    Text_Color: '#109010'
+    Text_Color: '#ffffff'
    
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
