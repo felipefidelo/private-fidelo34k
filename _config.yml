@@ -45,6 +45,14 @@ links:
     Color: '#1DB954'
     Icon-Class: fab fa-whatsapp
     Text_Color: '#ffffff'
+
+# Ganhe
+  - Name: Indique e ganhe 💰💸
+    URL: https://wa.me/+13159084777
+    Username: 
+    Color: '#1DB954'
+    Icon-Class: fab fa-whatsapp
+    Text_Color: '#ffffff'
    
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
