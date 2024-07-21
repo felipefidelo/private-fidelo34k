@@ -53,6 +53,13 @@ links:
     Color: '#1DB954'
     Icon-Class: fab fa-whatsapp
     Text_Color: '#ffffff'
+
+    # YOOUCINE
+  - Name: YouCine Download
+    URL: https://bit.ly/fidelocine
+    Username:
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-film
    
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
