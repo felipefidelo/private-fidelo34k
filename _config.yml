@@ -38,17 +38,10 @@ links:
     Icon-Class: fa-brands fa-threads
     Text_Color: '#ffffff'
 
- # Gupo dexz bot
-  - Name: DexZ Bot
-    URL: https://chat.whatsapp.com/ITzzMMfgsxdL73WJKmpq0G
-    Username: 
-    Color: '#1DB954'
-    Icon-Class: fab fa-whatsapp
-    Text_Color: '#ffffff'
-
+ 
 # Ganhe
-  - Name: Indique e ganhe 💰💸
-    URL: https://wa.me/+13159084777
+  - Name: Sinais 24h 💸🇧🇷
+    URL: https://chat.whatsapp.com/IPM4aLT39yd1buNLcHNdRU
     Username: 
     Color: '#1DB954'
     Icon-Class: fab fa-whatsapp
